@@ -4,7 +4,7 @@ interface Person {
 };
 
 function sayHello(person:Person) {
-    return console.log(`Olá ${person.name}! Você tem ${person.age} anos.`)
+    return console.log(`Olá ${person.name}! Você tem ${person.age} anos.`);
 };
 
 let pessoa:Person = {
