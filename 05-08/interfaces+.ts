@@ -46,11 +46,11 @@ function taskStatus(job:Task):void {
 let task1:Task = {
     title: "Task one",
     completed: true,
-}
+};
 
 let task2:Task = {
     title: "Task two",
-}
+};
 
 taskStatus(task1);
 taskStatus(task2);
