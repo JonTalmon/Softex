@@ -1,0 +1,1 @@
+APIs, interfaces e classes que definem a estrutura dos dados que vão do banco de dados.
